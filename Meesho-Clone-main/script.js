@@ -1,12 +1,12 @@
-import BagsFootwear from "./data/BagsFootwear.js"
-import BeautyHealth from "./data/BeautyHealth.js"
-import Electronics from "./data/Electronic.js"
-import HomeAndKitchen from "./data/HomeAndKitchen.js"
-import JewelleryAccessories from "./data/JewelleryAccessories.js"
-import Kids from "./data/Kids.js"
-import Men from "./data/Men.js"
-import WomenEthnic from "./data/WomenEthnic.js"
-import WomenWestern from "./data/WomenWestern.js"
+import BagsFootwear from "/Meesho-Clone-main/data/BagsFootwear.js"
+import BeautyHealth from "/Meesho-Clone-main/data/BeautyHealth.js"
+import Electronics from "/Meesho-Clone-main/data/Electronic.js"
+import HomeAndKitchen from "/Meesho-Clone-main/data/HomeAndKitchen.js"
+import JewelleryAccessories from "/Meesho-Clone-main/data/JewelleryAccessories.js"
+import Kids from "/Meesho-Clone-main/data/Kids.js"
+import Men from "/Meesho-Clone-main/data/Men.js"
+import WomenEthnic from "/Meesho-Clone-main/data/WomenEthnic.js"
+import WomenWestern from "/Meesho-Clone-main/data/WomenWestern.js"
 
 
 
